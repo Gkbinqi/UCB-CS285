@@ -4,7 +4,10 @@
 * Lectures(2023Fall): https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps
 ***
 2025.9.28
-Start
+Start 国庆后开始
 
 2025.10.2
 过几天找导去, 希望导师能给研0小东西配一台电脑...
+
+2025.10.4
+闲得发慌 现在开始
