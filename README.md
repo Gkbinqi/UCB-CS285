@@ -3,7 +3,14 @@
 * Main page: https://rail.eecs.berkeley.edu/deeprlcourse/
 * Lectures(2023Fall): https://www.youtube.com/playlist?list=PL_iWQOsE6TfVYGEGiAOMaOzzv41Jfm_Ps
 ***
+### 时间线
+
 2025.9.28
 Start
+
 2025.10.5
-沉迷游泳...国庆后开始
+沉迷游泳... 国庆后开始
+
+2025.10.9
+Lec 01 Intro
+
